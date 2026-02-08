@@ -1,8 +1,4 @@
-This is a perfect structure for a GitHub **README.md**. It frames the project not just as a tool, but as a scientific benchmarking utility for AI research.
 
-Here is the complete Markdown code for your project:
-
-```markdown
 # ArtBase: Artist Benchmark Engine (Flux Model)
 
 ## Overview
