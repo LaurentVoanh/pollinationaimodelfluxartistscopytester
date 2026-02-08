@@ -1,0 +1,2177 @@
+Egon Schiele
+Ray Caesar
+Aron Wiesenfeld
+Vincent van Gogh
+Raphael
+Moebius
+Enki Bilal
+Alfons Mucha
+Zdzislaw Beksinski
+Gustav Klimt
+Edward Hopper
+Claude Monet
+Rembrandt
+Francis Bacon
+Hokusai
+Henri Matisse
+Frida Kahlo
+Salvador Dali
+René Magritte
+Jean-Michel Basquiat
+Keith Haring
+Andy Warhol
+Roy Lichtenstein
+Yoshitaka Amano
+Hayao Miyazaki
+Katsuhiro Otomo
+Takehiko Inoue
+Kentaro Miura
+Junji Ito
+H.R. Giger
+Frank Frazetta
+Simon Stålenhag
+James Jean
+Shaun Tan
+Dave McKean
+Ashley Wood
+Yoji Shinkawa
+Syd Mead
+Ralph McQuarrie
+Jean-Baptiste Monge
+Claire Wendling
+Lois van Baarle
+Sergi Brosa
+Pascal Campion
+Ilya Kuvshinov
+Artgerm
+Greg Rutkowski
+Magali Villeneuve
+Sparth
+Feng Zhu
+John Singer Sargent
+Johannes Vermeer
+Caravage
+Hieronymus Bosch
+Pieter Bruegel l'Ancien
+Caspar David Friedrich
+William Turner
+Gustave Doré
+Odilon Redon
+Aubrey Beardsley
+Arthur Rackham
+Kay Nielsen
+Beatrix Potter
+Norman Rockwell
+Leyendecker
+N.C. Wyeth
+Maxfield Parrish
+Georgia O'Keeffe
+Tamara de Lempicka
+Piet Mondrian
+Wassily Kandinsky
+Joan Miro
+Jackson Pollock
+Mark Rothko
+Lucian Freud
+David Hockney
+Gerhard Richter
+Banksy
+Shepard Fairey
+Audrey Kawasaki
+Mark Ryden
+Marion Peck
+Nicoletta Ceccoli
+Tara McPherson
+Camille Rose Garcia
+Todd Schorr
+Robert Williams
+Gary Baseman
+Mab Graves
+Hikari Shimoda
+Takashi Murakami
+Yayoi Kusama
+Mr. Doodle
+Vexx
+Tristan Eaton
+James Bullough
+Connor Harrington
+Albrecht Dürer
+Anders Zorn
+Andrew Wyeth
+Abigail Larson
+Adrian Smith
+Akira Toriyama
+Alberto Giacometti
+Alex Ross
+Alexandre Cabanel
+Alphonse Mucha
+Amadeo de Souza-Cardoso
+Amedeo Modigliani
+Andreas Gursky
+Andrew Loomis
+Anges Moore
+Angus McKie
+Anselm Kiefer
+Anthony van Dyck
+Antoine Watteau
+Antoni Gaudí
+Antonio Canova
+Antonio López García
+Arnold Böcklin
+Arthur Adams
+Arthur Rackham
+Arthur Streeton
+Ary Scheffer
+Asher Brown Durand
+Ashley Wood
+Aubrey Beardsley
+Audrey Kawasaki
+August Macke
+Auguste Renoir
+Auguste Rodin
+Ayami Kojima
+Ayvasovsky
+Agostino Carracci
+Albrecht Altdorfer
+Alex Grey
+Alexander Archipenko
+Alexander Calder
+Alexander McQueen
+Alexej von Jawlensky
+Alfred Kubin
+Alfred Sisley
+Alice Neel
+Amedeo Bocchi
+Andre Derain
+André Masson
+Andreas Achenbach
+Andrew Schoultz
+Andrey Tarkovsky
+Anita Malfatti
+Anni Albers
+Annibale Carracci
+Ansel Adams
+Anthony Gormley
+Antoine-Jean Gros
+Anton Mauve
+Antonello da Messina
+Antonio Mancini
+Apelles
+Arshile Gorky
+Artemisia Gentileschi
+Augustus John
+Aurelio Luini
+Austin Osman Spare
+Axel Töpfer
+Ayako Rokkaku
+Aziz Anzabi
+Banksy
+Bastien Vivès
+Beatrix Potter
+Ben Templesmith
+Benjamin Lacombe
+Benoît Sokal
+Benoît Peeters
+Bernard Buffet
+Bernie Wrightson
+Berthe Morisot
+Bill Sienkiewicz
+Bill Watterson
+Blutch
+Bonaventura Genelli
+Boris Vallejo
+Boticelli
+Bouguereau
+Bramantino
+Brian Bolland
+Brian Froud
+Brian Stelfreeze
+Bridget Riley
+Bruce Nauman
+Bruce Timm
+Bruno Schulz
+Burt Silverman
+Buster Scruggs
+Balthus
+Barnett Newman
+Barry Windsor-Smith
+Bartolomé Esteban Murillo
+Basquiat
+Baya
+Beatriz Milhazes
+Ben Enwonwu
+Benedetto Croce
+Benvenuto Cellini
+Berlinde De Bruyckere
+Bernard Frize
+Bernd Becher
+Bernardo Bellotto
+Bernini
+Bertel Thorvaldsen
+Bertram Brooker
+Bilal
+Bill Henson
+Bill Viola
+Blinky Palermo
+Bob Kane
+Bob Layton
+Bob Peak
+Bob Ross
+Bogdan Rezunenko
+Bohumil Kubista
+Boris Kustodiev
+Boulet
+Braque
+Brian Despain
+Brice Marden
+Bridgette Riley
+Briton Rivière
+Bronzino
+Brooke Shaden
+Bruce McLean
+Bruno Munari
+Bryan Hitch
+Bryan Talbot
+Byron Browne
+Egon Schiele
+Ray Caesar
+Aron Wiesenfeld
+Vincent van Gogh
+Raphael
+Moebius
+Enki Bilal
+Alfons Mucha
+Zdzislaw Beksinski
+Gustav Klimt
+Edward Hopper
+Claude Monet
+Rembrandt
+Francis Bacon
+Hokusai
+Henri Matisse
+Frida Kahlo
+Salvador Dali
+René Magritte
+Jean-Michel Basquiat
+Keith Haring
+Andy Warhol
+Roy Lichtenstein
+Yoshitaka Amano
+Hayao Miyazaki
+Katsuhiro Otomo
+Takehiko Inoue
+Kentaro Miura
+Junji Ito
+H.R. Giger
+Frank Frazetta
+Simon Stålenhag
+James Jean
+Shaun Tan
+Dave McKean
+Ashley Wood
+Yoji Shinkawa
+Syd Mead
+Ralph McQuarrie
+Jean-Baptiste Monge
+Claire Wendling
+Lois van Baarle
+Sergi Brosa
+Pascal Campion
+Ilya Kuvshinov
+Artgerm
+Greg Rutkowski
+Magali Villeneuve
+Sparth
+Feng Zhu
+John Singer Sargent
+Johannes Vermeer
+Caravage
+Hieronymus Bosch
+Pieter Bruegel l'Ancien
+Caspar David Friedrich
+William Turner
+Gustave Doré
+Odilon Redon
+Aubrey Beardsley
+Arthur Rackham
+Kay Nielsen
+Beatrix Potter
+Norman Rockwell
+Leyendecker
+N.C. Wyeth
+Maxfield Parrish
+Georgia O'Keeffe
+Tamara de Lempicka
+Piet Mondrian
+Wassily Kandinsky
+Joan Miro
+Jackson Pollock
+Mark Rothko
+Lucian Freud
+David Hockney
+Gerhard Richter
+Banksy
+Shepard Fairey
+Audrey Kawasaki
+Mark Ryden
+Marion Peck
+Nicoletta Ceccoli
+Tara McPherson
+Camille Rose Garcia
+Todd Schorr
+Robert Williams
+Gary Baseman
+Mab Graves
+Hikari Shimoda
+Takashi Murakami
+Yayoi Kusama
+Mr. Doodle
+Vexx
+Tristan Eaton
+James Bullough
+Connor Harrington
+Daito Manabe
+Dale Chihuly
+Damien Hirst
+Dan Mumford
+Dan Perjovschi
+Dan Seagrave
+Daniel Arsham
+Daniel Buren
+Daniel Merriam
+Dante Gabriel Rossetti
+Dany
+Daphne Confar
+Darek Zabrocki
+Darwyn Cooke
+Dave Cooper
+Dave Gibbons
+Dave McKean
+David Alfaro Siqueiros
+David Bomberg
+David Chipperfield
+David Friedrich
+David Hockney
+David LaChapelle
+David Lynch
+David Sala
+David Shrigley
+Dean Cornwell
+Dean Ellis
+Death Burger
+Debbie Han
+Degas
+Delacroix
+Denis Bajram
+Dennis Stock
+Denys Wortman
+Derek Boshier
+Derek Riggs
+Dermot Power
+Diarmuid Kelley
+Diego Rivera
+Diego Velasquez
+Diller Scofidio
+Dimitra Milan
+Dino Valls
+Dmitry Korman
+Dominique Ingres
+Don Bluth
+Don Lawrence
+Don Rosa
+Donald Judd
+Donatello
+Donato Giancola
+Dora Maar
+Dorothea Lange
+Dorothea Tanning
+Doug Chiang
+Douglas Smith
+Dr. Seuss
+Drew Struzan
+Duchamp
+Dufy
+Duilio Cambellotti
+Durer
+Dustin Nguyen
+Duy Huynh
+Eadweard Muybridge
+Earl Norem
+Ed Benedict
+Ed Emshwiller
+Ed Mell
+Ed Roth
+Edgar Degas
+Edmund Dulac
+Edouard Manet
+Edouard Riou
+Edouard Vuillard
+Edvard Munch
+Edward Bawden
+Edward Burne-Jones
+Edward Gorey
+Edward Hopper
+Edward Lear
+Edward Ruscha
+Edward Steichen
+Edward Weston
+Edwin Austin Abbey
+Edwin Landseer
+Egon Schiele
+Eileen Gray
+Eiichiro Oda
+Eishiro Zhu
+El Greco
+Elaine de Kooning
+Eleanor Vere Boyle
+Elena Kalis
+Elihu Vedder
+Elisabeth Vigee-Lebrun
+Ellsworth Kelly
+Elsa Schiaparelli
+Emil Ferris
+Emil Nolde
+Emila Medková
+Emiliano Di Cavalcanti
+Emilio Vedova
+Emily Carr
+Emmanuelle Houdart
+Emmet Gowin
+Enki Bilal
+Enrico Castellani
+Enrico Mazzanti
+Enrique Metinides
+Enzo Mari
+Eric Carle
+Eric Gill
+Eric Stanton
+Erich Heckel
+Erich Lessing
+Erik Desmazières
+Erik Johansson
+Ernst Haeckel
+Ernst Ludwig Kirchner
+Ernst Wilhelm Nay
+Erró
+Erte
+Esao Andrews
+Escher
+Esteban Maroto
+Etel Adnan
+Ethelwynne V. Quail
+Etienne Delessert
+Etienne-Louis Boullée
+Eugene Delacroix
+Eugene Grasset
+Evelyn de Morgan
+Everett Shinn
+Ewan McClure
+Eyvind Earle
+Fabian Perez
+Fabienne Verdier
+Fabio Moon
+Farel Dalrymple
+Federico Fellini
+Felice Casorati
+Felicia Simion
+Felix Vallotton
+Feng Zhu
+Ferdinand Hodler
+Fernand Leger
+Fernando Botero
+Fillia
+Fiona Staples
+Florianne Becker
+Floyd Gottfredson
+Francis Bacon
+Francis Picabia
+Francisco de Goya
+Francisco de Zurbaran
+Frank Auerbach
+Frank Cho
+Frank Frazetta
+Frank Lloyd Wright
+Frank Miller
+Frank Quitely
+Frank Stella
+Franklin Booth
+Frans Hals
+Franz Kline
+Franz Marc
+Franz Stuck
+Franz Xaver Winterhalter
+Fred Moore
+Fred Tomaselli
+Frederic Edwin Church
+Frederic Leighton
+Frida Kahlo
+Friedensreich Hundertwasser
+Friedrich Kunath
+Fu Baoshi
+Fujiko F. Fujio
+Fuyuko Matsui
+Fyodor Rokotov
+Felicien Rops
+Fernand Khnopff
+Filippo Lippi
+Filippino Lippi
+Ford Madox Brown
+Francesco Guardi
+Francesco Hayez
+Francis Alÿs
+Francis Campbell Boileau Cadell
+Francois Boucher
+Francois Gerard
+Francois Millet
+Francois Pompon
+Frank Brangwyn
+Frank Dicksee
+Frank Gehry
+Frank Holl
+Frank Howell
+Frank Schoonover
+Frans Post
+Frans Snyders
+Franz Ackermann
+Franz West
+Fred Williams
+Frederick McCubbin
+Frederick Sandys
+Fritz Scholder
+Gabriel Ba
+Gabriel Orozco
+Gabriele Münter
+Gaetano Previati
+Gail Potocki
+Gary Baseman
+Gary Panter
+Gary Simmons
+Gaston La Touche
+Gediminas Pranckevicius
+Gene Colan
+Geof Darrow
+Geofroy Tory
+George Bellows
+George Cruikshank
+George Grosz
+George Herriman
+George Inness
+George Lucas
+George Perec
+George Stubbs
+Georges Braque
+Georges de La Tour
+Georges Méliès
+Georges Seurat
+Georgia O'Keeffe
+Gerald Brom
+Gerhard Richter
+Gerrit Dou
+Gertrude Abercrombie
+Gherardo Starnina
+Giacomo Balla
+Gian Lorenzo Bernini
+Gideon Rubin
+Gilbert & George
+Gilbert Hernandez
+Gil Elvgren
+Giorgio de Chirico
+Giorgio Morandi
+Giorgione
+Giotto
+Giovanni Battista Piranesi
+Giovanni Battista Tiepolo
+Giovanni Bellini
+Giovanni Boldini
+Giovanni Segantini
+Giuseppe Arcimboldo
+Giuseppe De Nittis
+Glenn Fabry
+Glenn Ligon
+Go Nagai
+Gottfried Helnwein
+Goya
+Graham Sutherland
+Grant Wood
+Greg Capullo
+Greg Hildebrandt
+Greg Rutkowski
+Gregory Crewdson
+Guido Reni
+Guillaume Apollinaire
+Guillermo del Toro
+Guillermo Mordillo
+Gustav Klimt
+Gustave Courbet
+Gustave Dore
+Gustave Moreau
+Guy Billout
+Guy Peellaert
+Gwon Osang
+H.R. Giger
+Hajime Sorayama
+Hale Woodruff
+Hannah Höch
+Hans Baldung Grien
+Hans Bellmer
+Hans Hartung
+Hans Holbein
+Hans Memling
+Hans Richter
+Hans Rudolf Giger
+Harold Edgerton
+Harold Foster
+Hasan Elahi
+Hayao Miyazaki
+Helen Frankenthaler
+Hokusai
+Hermann Nitsch
+Henri Cartier-Bresson
+Henri de Toulouse-Lautrec
+Henri Matisse
+Henri Rousseau
+Henry Fuseli
+Henry Moore
+Herbert Bayer
+Herbert List
+Hercules Seghers
+Herman Miller
+Hieronimus Bosch
+Hikari Shimoda
+Hilma af Klint
+Hirohiko Araki
+Hiroshi Sugimoto
+Hiroshige
+Hokusai
+Honore Daumier
+Hope Gangloff
+Horace Vernet
+Howard Chaykin
+Howard Hodgkin
+Howard Pyle
+Hubert Robert
+Hudson River School
+Hugh Ferriss
+Hugo Pratt
+Huma Bhabha
+Humberto Ramos
+Hyacinthe Rigaud
+Hyung-tae Kim
+Ian McQue
+Ian Miller
+Iban Coello
+Ibrahim El-Salahi
+Ida Kar
+Ida Rentoul Outhwaite
+Idris Khan
+Ignacio Zuloaga
+Igor Morski
+Igor Zenin
+Ilya Kabakov
+Ilya Kuvshinov
+Ilya Repin
+Inio Asano
+Inka Essenhigh
+Innocent VIII
+Ion Bitzan
+Ira Levin
+Irene Parenti Duclos
+Iris van Herpen
+Irving Penn
+Isaac Asimov
+Isaac Levitan
+Isabel Bishop
+Isamu Noguchi
+Isidro Ferrer
+Ismail Gulgee
+Italo Calvino
+Itaya Hazan
+Ivan Albright
+Ivan Bilibin
+Ivan Chermayeff
+Ivan Generalic
+Ivan Shishkin
+Iwan Baan
+Iwaya Sazanami
+Iwasaki Chihiro
+Iyo Hakoda
+Izumi Kato
+J.C. Leyendecker
+J.M.W. Turner
+J.R.R. Tolkien
+Jack Kirby
+Jack Vettriano
+Jackson Pollock
+Jacob van Ruisdael
+Jacques-Louis David
+James Abbott McNeill Whistler
+James Christensen
+James Ensor
+James Gurney
+James Jean
+James Paick
+James Rosenquist
+James Tissot
+Jamie Hewlett
+Jan van Eyck
+Jan Vermeer
+Jaroslaw Puczel
+Jason Edmiston
+Jason Pollock
+Jasper Johns
+Jaume Plensa
+Jean Auguste Dominique Ingres
+Jean Cocteau
+Jean Giraud
+Jean Leon Gerome
+Jean-Baptiste-Simeon Chardin
+Jean-Michel Basquiat
+Jean-Pierre Gibrat
+Jeff Koons
+Jeff Lemire
+Jeffrey Catherine Jones
+Jeffrey Smith
+Jen Bartel
+Jeremy Geddes
+Jeremy Lipking
+Jeremy Mann
+Jesper Ejsing
+Jim Burns
+Jim Dine
+Jim Lee
+Jim Steranko
+Jim Starlin
+Jim Woodring
+Joan Miro
+Joe Bowler
+Joe Madureira
+Joe Quesada
+Joel-Peter Witkin
+Johannes Itten
+Johannes Vermeer
+John Berkey
+John Constable
+John Everett Millais
+John Harris
+John Howe
+John Jude Palencar
+John Singer Sargent
+John William Waterhouse
+Jon Whitcomb
+Jorge Zaffino
+Jose Clement Orozco
+Josef Albers
+Joseph Cornell
+Joseph Ducreux
+Josh Agle
+Josh Kirby
+Juan Gris
+Judas Priest
+Jules Bastien-Lepage
+Jules Feiffer
+Julia Margaret Cameron
+Julian Schnabel
+Junji Ito
+Justin Gerard
+Justin Sweet
+Kadir Nelson
+Karl Schmidt-Rottluff
+Karl Walser
+Kasia Althamer
+Katsuhiro Otomo
+Katsushika Hokusai
+Katsushika Oi
+Kay Nielsen
+Kay Sage
+Kazimir Malevich
+Kazuo Koike
+Kazuo Oga
+Kazuo Umezu
+Kehinde Wiley
+Keith Haring
+Ken Kelly
+Ken Price
+Ken Sugimori
+Kenji Yanobe
+Kenne Gregoire
+Kent Williams
+Kentaro Miura
+Kevin Eastman
+Kevin Nowlan
+Kevin O'Neill
+Kiki Smith
+Kilopop
+Kim Dong-gi
+Kim Jung Gi
+Kim Tschang-yeul
+Kirby Sattler
+Kitagawa Utamaro
+Klaus Janson
+Klaus Voormann
+Koho Shoda
+Koji Morimoto
+Koren Shadmi
+Koyo Omura
+Kris Knight
+Kris Kuksi
+Krzysztof Kieslowski
+Kunisada
+Kuniyoshi
+Kurelek
+Kurt Cobain
+Kurt Seligmann
+Kurt Schwitters
+Kuvshinov Ilya
+Kuzma Petrov-Vodkin
+Kwon Hyuk-do
+Kyosai
+Kyoto Animation
+Lady Aiko
+Larkin Ford
+Laszlo Moholy-Nagy
+Laurent Baheux
+Laurie Greasley
+Laurie Lipton
+Lawrence Alma-Tadema
+Lawren Harris
+Le Corbusier
+Lee Krasner
+Lee Madgwick
+Lee Miller
+Leiji Matsumoto
+Leon Bakst
+Leon Spilliaert
+Leonardo da Vinci
+Leonid Afremov
+Leonora Carrington
+Leopold Survage
+Les Edwards
+Liam Wong
+Libertad Lamarque
+Lichtenstein
+Liniers
+Lionel Feininger
+Livio Scarpella
+Logan Maxwell Hagege
+Lois van Baarle
+Lorenzo Lotto
+Lorenzo Mattotti
+Lori Earley
+Lou Romano
+Louis Comfort Tiffany
+Louis Wain
+Louise Bourgeois
+Lovis Corinth
+Lowell Herrero
+Luc Schuiten
+Lucas Cranach the Elder
+Lucian Freud
+Lucio Fontana
+Ludvig Munthe
+Ludwig Bemelmans
+Ludwig Meidner
+Luis Quiles
+Luis Ricardo Falero
+Luis Royo
+Luisa Igloria
+Luitpold Domberger
+Luo Zhongli
+Luz Donoso
+Lynda Benglis
+Lynd Ward
+Lyonel Feininger
+M.C. Escher
+Mab Graves
+Madeline von Foerster
+Magali Villeneuve
+Magritte
+Mahmoud Saïd
+Makoto Shinkai
+Malika Favre
+Man Ray
+Marc Chagall
+Marc Davis
+Marc Silvestri
+Marcel Duchamp
+Marco Mazzoni
+Marek Okon
+Margaret Keane
+Maria Sibylla Merian
+Marianne von Werefkin
+Marie Laurencin
+Marilyn Manson
+Marina Abramovic
+Mario Testino
+Marion Peck
+Marius Borgeaud
+Mark Brooks
+Mark Rothko
+Mark Ryden
+Mark Texeira
+Marsden Hartley
+Martin Parr
+Martin Schongauer
+Mary Blair
+Mary Cassatt
+Masamune Shirow
+Masashi Kishimoto
+Massimo Vignelli
+Matisse
+Matt Baker
+Matt Groening
+Mattias Adolfsson
+Maurice Sendak
+Max Beckmann
+Max Ernst
+Maxfield Parrish
+Maximilien Luce
+Maynard Dixon
+Mazuhr
+Mert & Marcus
+Metzinger
+Michael Whelan
+Michal Karcz
+Michelangelo
+Mick Rock
+Mikalojus Konstantinas Ciurlionis
+Mike Mignola
+Mike Winkelmann
+Miles Aldridge
+Milo Manara
+Milton Glaser
+Mina Papatheodorou Valyraki
+Miquel Barceló
+Miyamoto Musashi
+Moebius
+Mondrian
+Monet
+Morris Louis
+Mort Kuntsler
+Mucha
+Muntean & Rosenblum
+Murakami
+Muxxi
+N.C. Wyeth
+Nadler
+Nan Goldin
+Nao Tsugumi
+Naoki Urasawa
+Naoko Takeuchi
+Naoto Hattori
+Natalia Goncharova
+Nathan Fowkes
+Natsuo Kirino
+Neil Adams
+Neil Gaiman
+Nellie Bly
+Nelson Eddy
+Neo Rauch
+Neville Brody
+Nicholas Roerich
+Nick Knight
+Nick Park
+Nick Runge
+Nicoletta Ceccoli
+Nigel Cooke
+Nigel Peake
+Nikolai Astrup
+Nikolai Fechin
+Nikolai Roerich
+Nilgun Yerli
+Nils Hamm
+Nils-Udo
+Nishida Shunyo
+Noah Bradley
+Nobuyoshi Araki
+Noel Sickles
+Noelle Stevenson
+Noriyoshi Ohrai
+Norman Bluhm
+Norman Rockwell
+Nychos
+Nyura
+O. Winston Link
+Odd Nerdrum
+Odilon Redon
+Oskar Schlemmer
+Oskar Kokoschka
+Oswald Achenbach
+Otto Dix
+Otto Mueller
+Oleg Shuplyak
+Olafur Eliasson
+Olga Rozanova
+Oliver Coipel
+Oliver Jeffers
+Olivier Vatine
+Olszinski
+Oskar Fischinger
+Othmar Schieder
+Otomo Katsuhiro
+Otto Freundlich
+Otto Marseus van Schrieck
+Otto Wagner
+Oubrerie Clement
+Oudry Jean-Baptiste
+Ovadia Alkara
+Owen Jones
+Owen Wood
+Oyo
+Pablo Picasso
+Paddy McLean
+Paolo Serpieri
+Paolo Uccello
+Parmigianino
+Pascal Campion
+Pascal Blanche
+Pat Andrea
+Patrick Caulfield
+Patrick Nagel
+Patrick Woodroffe
+Paul Cadmus
+Paul Cezanne
+Paul Delvaux
+Paul Gauguin
+Paul Klee
+Paul Laffoley
+Paul Noble
+Paul Signac
+Paula Modersohn-Becker
+Paula Rego
+Paulo Siqueira
+Pavel Tchelitchew
+Peach Momoko
+Peder Severin Kroyer
+Pedro Campos
+Pelagio Palagi
+Pelle Cass
+Penelope Bagieu
+Perugino
+Peter Bagge
+Peter Blake
+Peter Doig
+Peter Elson
+Peter Gric
+Peter Howson
+Peter Max
+Peter Mohrbacher
+Peter Paul Rubens
+Peter Saville
+Phil Hale
+Phil Jimenez
+Phil Koch
+Philip Guston
+Philip Pearlstein
+Philippe Caza
+Philippe Druillet
+Philippe Halsman
+Philippe Parreno
+Piero della Francesca
+Piero di Cosimo
+Pierre Bonnard
+Pierre-Auguste Renoir
+Pierre-Joseph Redoute
+Piet Mondrian
+Pieter Bruegel l'Ancien
+Pieter Claesz
+Pietro Annigoni
+Pietro da Cortona
+Pino Daeni
+Pippa McManus
+Piranese
+Pola Dwurnik
+Poul Henningsen
+Prudence Heward
+Puvell de Chavannes
+Quentin Blake
+Quentin Massys
+Quino
+Quint Buchholz
+Quirine Racké
+Quido Mánes
+Quique Alcatena
+Quincy Reed
+Quinn Fabray
+Quang Ho
+Quan Tze
+Quinton Hoover
+Queenie Chan
+Quido Kocian
+Quinten Matsys
+Quintin de la Tour
+Quirijn van Brekelenkam
+Quistgard
+Rachel Ruysch
+Raeburn
+Rafal Olbinski
+Rafaello Sanzio
+Rainer Maria Rilke
+Ralph Bakshi
+Ralph McQuarrie
+Ralph Steadman
+Ramon Casas
+Raoul Dufy
+Raphael
+Raphael Lacoste
+Raphael Soyer
+Ray Caesar
+Ray Harryhausen
+Raymond Briggs
+Raymond Pettibon
+Raymond Savignac
+Rebecca Guay
+Reginald Marsh
+Rembrandt van Rijn
+Remedios Varo
+Rene Magritte
+Renoir
+Retna
+Richard Corben
+Richard Diebenkorn
+Richard Estes
+Richard Hamilton
+Richard Long
+Richard Scarry
+Rick Berry
+Rick Griffin
+Rick Riordan
+Rika Noguchi
+Rinko Kawauchi
+Rob Gonsalves
+Rob Liefeld
+Robert Bechtle
+Robert Capa
+Robert Crumb
+Robert Delaunay
+Robert Henri
+Robert Irwin
+Robert Mapplethorpe
+Robert McGinnis
+Robert Motherwell
+Robert Rauschenberg
+Robert Valley
+Robert Williams
+Roberto Ferri
+Roberto Matta
+Rockwell Kent
+Rodney Matthews
+Roger Dean
+Roger Excoffon
+Roger Soubie
+Rolf Armstrong
+Romare Bearden
+Romero Britto
+Ron Mueck
+Ron Walotsky
+Ronald Searle
+Rosa Bonheur
+Ross Tran
+Rossdraws
+Roy Lichtenstein
+Rudolf von Alt
+Rufino Tamayo
+Russ Heath
+Russ Manning
+Ryan Meinerding
+Ryan Stegman
+S.H. Raza
+Sajad Shah
+Salvador Dali
+Sam Bosma
+Sam Does Arts
+Sam Kieth
+Sam Spratt
+Sam Wolfe Connelly
+Samwise Didier
+Sanford Biggers
+Santi Moix
+Santiago Calatrava
+Santiago Caruso
+Sanyu
+Sargent Claude Johnson
+Satoshi Kon
+Saul Bass
+Saul Steinberg
+Savadori
+Savinio
+Sean Gordon Murphy
+Sean Phillips
+Sean Scully
+Sebastian Kruger
+Sebastian Meschenmoser
+Sebas Hanutka
+Sebastiao Salgado
+Sergei Eisenstein
+Sergi Brosa
+Serov
+Seth
+Seurat
+Shag
+Shaun Tan
+Shepard Fairey
+Sherrie Levine
+Shigeo Fukuda
+Shigeru Mizuki
+Shinichi Sakamoto
+Shinji Aramaki
+Shintaro Kago
+Shohei Otomo
+Shusei Nagaoka
+Siamak Filizadeh
+Sidney Nolan
+Siegfried Zademack
+Sigmar Polke
+Silver Surfer
+Simeon Solomon
+Simon Bisley
+Simon Stålenhag
+Simonne Logan
+Sir John Tenniel
+Sloane Leong
+Sol LeWitt
+Sonia Delaunay
+Sophie Calle
+Sparth
+Stan Lee
+Stanisław Szukalski
+Stanley Donwood
+Stanley Lau
+Stanley Mouse
+Stefan Sagmeister
+Stephan Doitschinoff
+Stephanie Law
+Stephen Bliss
+Stephen Gammell
+Stephen Shore
+Steve Ditko
+Steve McCurry
+Steven Belledin
+Steven Meisel
+Strom Thorgerson
+Stuart Davis
+Stuart Immonen
+Sumerian Art
+Sun Ra
+Sunga Park
+Sutapa Biswas
+Syd Mead
+Sylvain Chomet
+Sylvain Marc
+Tadao Ando
+Taiyo Matsumoto
+Takehiko Inoue
+Takashi Murakami
+Takato Yamamoto
+Tamara de Lempicka
+Tanino Liberatore
+Tantra
+Taro Okamoto
+Tarsila do Amaral
+Tatsuro Kiuchi
+Tatsuyuki Tanaka
+Tavik Frantisek Simon
+Ted McKeever
+Ted Nasmith
+Terada Katsuya
+Terry Gilliam
+Terry Richardson
+Terry Winters
+Theodore Gericault
+Theophile Steinlen
+Thomas Cole
+Thomas Eakins
+Thomas Gainsborough
+Thomas Hart Benton
+Thomas Kinkade
+Thomas Moran
+Thomas Rowlandson
+Thomas Schaller
+Thornton Dial
+Thure de Thulstrup
+Tiago Hoisel
+Tillie Walden
+Tim Burton
+Tim Hildebrandt
+Tim White
+Tintoretto
+Titian
+Tiziano Vecellio
+Todd McFarlane
+Todd Schorr
+Tom Bagshaw
+Tom Gauld
+Tom Lovell
+Tom of Finland
+Tom Whalen
+Tomasz Alen Kopera
+Tomasz Setowski
+Tomer Hanuka
+Tomie Ohtake
+Tomokazu Matsuyama
+Tony DiTerlizzi
+Tony Viramontes
+Toshio Saeki
+Toshiyuki Itoh
+Toulouse-Lautrec
+Toyen
+Tracey Emin
+Travis Charest
+Tristan Eaton
+Tsuguharu Foujita
+Tsutomu Nihei
+Tyree Guyton
+U-Ram Choe
+Uderzo
+Ugo Foscolo
+Ugo Nespolo
+Ugo Rondinone
+Ugotopia
+Ukiyo-e (Style / School)
+Ulay
+Ulla von Brandenburg
+Ulrich Beck
+Ulrich Rückriem
+Ultraman (Style)
+Uman
+Umberto Boccioni
+Umberto Brunelleschi
+Umberto Eco
+Umezu Kazuo
+Underwood & Underwood
+Ungerer Tomi
+Unknown (Artistic Attribution)
+Uno Morales
+Uragami Gyokudo
+Urban Larsson
+Urs Fischer
+Ursula von Rydingsvard
+Usamaru Furuya
+Ushio Shinohara
+Utamaro
+Utagawa Hiroshige
+Utagawa Kuniyoshi
+Ute Lemper
+Uve (Artiste contemporain)
+Uwe Wittwer
+Vadim Kashin
+Valentin Serov
+Valerio Adami
+Valerio D'Ospina
+Van Gogh
+Vania Zouravliov
+Vasco Giavelli
+Vasilis Marmatakis
+Vasily Kandinsky
+Vasily Surikov
+Vasily Vereshchagin
+Vaughn Bodé
+Velazquez
+Veli Izzet
+Veloso Salgado
+Vernon Grant
+Vezio Baglieri
+Vicente Segrelles
+Victor Brauner
+Victor Horta
+Victor Hugo (dessins)
+Victor Moscoso
+Victor Vasarely
+Victoria Crowe
+Vija Celmins
+Vik Muniz
+Viktor Vasnetsov
+Vilhelm Hammershøi
+Vincent Desiderio
+Vincent Di Fate
+Vincent Segrelles
+Vincenzo Balsamo
+Vito Acconci
+Vittore Carpaccio
+Vittorio Giardino
+Viviane Sassen
+Vladimir Kush
+Vladimir Tatlin
+Vlaho Bukovac
+W.H. Auden
+W.W. Denslow
+Wacko Maria
+Wadsworth Jarrell
+Waitrose
+Wakana Yamazaki
+Wakeling
+Walasse Ting
+Waldemar von Kazak
+Walker Evans
+Wallis Simpson
+Walt Disney
+Walter Crane
+Walter Gropius
+Walter Sickert
+Walton Ford
+Wang Guangyi
+Wang Shu
+Ward Kimball
+Wassily Kandinsky
+Watanabe Seitei
+Wataru Mimura
+Wayne Barlowe
+Wayne Thiebaud
+Weegee
+Wei Dong
+Wenceslaus Hollar
+Wendy Froud
+Werner Herzog
+Wesselmann
+Wifredo Lam
+Wilhelm Sasnal
+Will Barnet
+Will Eisner
+William Blake
+William Eggleston
+William Hogarth
+William Morris
+William S. Burroughs
+William Turner (J.M.W.)
+William Wegman
+Williams Robert
+Winslow Homer
+Winston Groom
+Winston Smith
+Wisława Szymborska
+Wladyslaw Slevinski
+Wolfgang Tillmans
+Wolfgang Weingart
+Won-Pyung Sohn
+Wong Kar-wai
+Woody Allen
+Wout Berger
+Wrightson Bernie
+Wuer Yue
+Wyeth Andrew
+Xanti Schawinsky
+Xavier Casalta
+Xavier Miserachs
+Xavier Veilhan
+Xenia Hausner
+Xi Pan
+Xiao Fan
+Xiao-Fan Ru
+Xie Chuyu
+Xing Danwen
+Xul Solar
+Xylor Jane
+Yaacov Agam
+Yacoel
+Yael Bartana
+Yago Hortal
+Yann Arthus-Bertrand
+Yannis Tsarouchis
+Yara Kono
+Yasin Isik
+Yasumasa Morimura
+Yasuo Kuniyoshi
+Yasuoka
+YAY
+Yayoi Kusama
+Yee Wong
+Yefim Ladyzhinsky
+Yoji Shinkawa
+Yoko Ono
+Yolanda Lopez
+Yoon Hyup
+Yoshitaka Amano
+Yoshitomo Nara
+Yosuke Kyono
+Yue Minjun
+Yuji Ueda
+Yuko Shimizu
+Yumeji Takehisa
+Yumi Okita
+Yun Hyong-keun
+Yuri Ancarani
+Yuri Pimenov
+Yves Klein
+Yves Tanguy
+Z.Z. Wei
+Zabel
+Zack Snyder (style visuel)
+Zaha Hadid
+Zao Wou-Ki
+Zatzka
+Zbigniew Beksinski
+Zdenek Burian
+Zeng Fanzhi
+Zhang Daqian
+Zhang Kechun
+Zhang Xiaogang
+Zheng Wei Gu
+Zhu Haibin
+Zhu Ming
+Zinaida Serebriakova
+Zdzisław Beksiński
+Zoe Leonard
+Zofia Kulik
+Zoran Music
+Zorn (Anders Zorn)
+Zsigmond Kisfaludi Strobl
+Zubaran (Francisco de Zurbarán)
+Zuka
+Zush
+Léonard de Vinci
+Michel-Ange
+Raphaël
+Albrecht Dürer
+Rembrandt
+Francisco de Goya
+William Blake
+Jean-Auguste-Dominique Ingres
+Eugène Delacroix
+Honoré Daumier
+Gustave Doré
+Edgar Degas
+Henri de Toulouse-Lautrec
+Paul Cézanne
+Vincent van Gogh
+Paul Gauguin
+Odilon Redon
+Aubrey Beardsley
+Egon Schiele
+Gustav Klimt
+Pablo Picasso
+Georges Braque
+Juan Gris
+Amedeo Modigliani
+Paul Klee
+Wassily Kandinsky
+Kazimir Malevitch
+Marc Chagall
+Fernand Léger
+Joan Miró
+Alberto Giacometti
+Jean Cocteau
+Balthus
+Jean Dubuffet
+Francis Bacon
+Lucian Freud
+David Hockney
+Cy Twombly
+Anselm Kiefer
+Gerhard Richter
+Georg Baselitz
+Marlene Dumas
+Jenny Saville
+William Kentridge
+Kara Walker
+Jean-Michel Basquiat
+Keith Haring
+Banksy
+Shepard Fairey
+Takashi Murakami
+Yoshitomo Nara
+Hokusai
+Utagawa Hiroshige
+Sesshū Tōyō
+Katsushika Ōi
+Qi Baishi
+Xu Beihong
+Zao Wou-Ki
+Chu Teh-Chun
+Lee Ufan
+Park Seo-Bo
+Nam June Paik
+Mœbius
+Hergé
+André Franquin
+Jean Giraud
+Enki Bilal
+Jacques Tardi
+Philippe Druillet
+Hugo Pratt
+Will Eisner
+Jack Kirby
+Steve Ditko
+Alex Toth
+Frank Miller
+Art Spiegelman
+Robert Crumb
+Moebius
+Katsuhiro Otomo
+Akira Toriyama
+Osamu Tezuka
+Takehiko Inoue
+Kentaro Miura
+Naoki Urasawa
+Taiyo Matsumoto
+Junji Ito
+Sergio Toppi
+Lorenzo Mattotti
+Dave McKean
+Bill Sienkiewicz
+Mike Mignola
+James Jean
+Ashley Wood
+Simon Bisley
+Frazetta
+H.R. Giger
+Zdzisław Beksiński
+Odilon Redon
+Gustave Moreau
+Pierre Soulages
+Cyprien Gaillard
+Ralph Steadman
+Saul Steinberg
+Edward Gorey
+Tim Burton
+Chris Ware
+Daniel Clowes
+Charles Burns
+Julie Doucet
+Marjane Satrapi
+David B.
+Joann Sfar
+Blutch
+Manu Larcenet
+Riad Sattouf
+Breccia
+Alberto Breccia
+José Muñoz
+Carlos Nine
+Juan Giménez
+Paul Pope
+Jean-Claude Mézières
+Kenojuak Ashevak
+Norval Morrisseau
+Frida Kahlo
+Georgia O’Keeffe
+Louise Bourgeois
+Hilma af Klint
+Sonia Delaunay
+Tamara de Lempicka
+Paula Rego
+Elizabeth Peyton
+Cindy Sherman
+Tracey Emin
+Luc Tuymans
+Neo Rauch
+Peter Doig
+Adrian Ghenie
+Mikhail Vrubel
+Ilya Repin
+Vasily Surikov
+Marc Chagall
+Chaïm Soutine
+Alechinsky
+Pierre Alechinsky
+Hans Bellmer
+Otto Dix
+George Grosz
+Max Beckmann
+Lyonel Feininger
+Winsor McCay
+Glen Keane
+Hayao Miyazaki
+Isao Takahata
+Yoji Shinkawa
+Craig Mullins
+Kim Jung Gi
+Hergé
+André Franquin
+Jean Giraud
+Mœbius
+Enki Bilal
+Jacques Tardi
+Hugo Pratt
+Philippe Druillet
+Jean-Claude Mézières
+Edgar P. Jacobs
+Albert Uderzo
+René Goscinny
+Milo Manara
+Sergio Toppi
+Lorenzo Mattotti
+Alberto Breccia
+Hector Germán Oesterheld
+José Muñoz
+Carlos Sampayo
+Juan Giménez
+Carlos Nine
+Horacio Altuna
+José Ortiz
+Victor de la Fuente
+Enrique Breccia
+Francisco Solano López
+Will Eisner
+Jack Kirby
+Steve Ditko
+Alex Toth
+Neal Adams
+Frank Miller
+John Buscema
+Gil Kane
+Jim Steranko
+Moebius
+Art Spiegelman
+Robert Crumb
+Harvey Kurtzman
+Charles Burns
+Daniel Clowes
+Chris Ware
+Seth
+Joe Sacco
+Dave McKean
+Bill Sienkiewicz
+Mike Mignola
+Brian Bolland
+Dave Gibbons
+Alan Davis
+Frank Quitely
+Simon Bisley
+Ashley Wood
+James Jean
+Paul Pope
+Jeff Smith
+Craig Thompson
+Adrian Tomine
+Katsuhiro Otomo
+Osamu Tezuka
+Akira Toriyama
+Takehiko Inoue
+Kentaro Miura
+Naoki Urasawa
+Taiyo Matsumoto
+Junji Ito
+Tsutomu Nihei
+Go Nagai
+Leiji Matsumoto
+Masamune Shirow
+Yoshihiro Tatsumi
+Jiro Taniguchi
+Shigeru Mizuki
+Inio Asano
+Hajime Isayama
+Eiichiro Oda
+Hergé
+Blutch
+Manu Larcenet
+Lewis Trondheim
+Joann Sfar
+Marjane Satrapi
+Riad Sattouf
+David B.
+Jean-Christophe Menu
+Étienne Davodeau
+Catherine Meurisse
+Pénélope Bagieu
+Zep
+Cabu
+Reiser
+Gotlib
+Wolinski
+Claire Bretécher
+Florence Cestac
+Philippe Geluck
+François Boucq
+Hermann
+Didier Comès
+Andreas
+Schuiten
+Benoît Peeters
+Jodorowsky
+Juanjo Guarnido
+José Luis Munuera
+David Aja
+Eduardo Risso
+Enrico Marini
+Gipi
+Zerocalcare
+Igort
+Milo Manara
+Paolo Eleuteri Serpieri
+Tanino Liberatore
+Magnus
+Andrea Pazienza
+Winsor McCay
+George Herriman
+Hal Foster
+Milton Caniff
+Alex Raymond
+Burne Hogarth
+Floyd Gottfredson
+Carl Barks
+Don Rosa
+Romano Scarpa
+Osamu Akimoto
+Shinji Mizushima
+Buichi Terasawa
+Yusuke Murata
+Kim Jung Gi
+Moebius
+Tim O’Brien
+Ernest Hamlin Baker
+Boris Chaliapin
+Daniel Adel
+Thomas Fluharty
+Gregory Manchess
+Jack Davis
+Boris Artzybasheff
+Henry Koerner
+Tim Okamura
+Agata Nowicka
+Lu Cong
+Andy Warhol
+Roy Lichtenstein
+Norman Rockwell
+Al Hirschfeld
+David Levine
+Peter Max
+Robert Grossman
+Brad Holland
+Steven Dohanos
+Jack Welch
+Richard Avedon 
+John Cuneo
+Steve Brodner
+Barry Blitt
+Chris Buzelli
+Victor Stabin
+Vicente Romero
+Steve Hanks
+Ben Shahn
+Michael Leonard
+Robert Risko
+David Levine
+Ronald Searle
+J.C. Leyendecker
+George Petty
+Coby Whitmore
+Bernard Safran
+Arthur Szyk
+James McMullan
+Todd Webb
+Philip Burke
+R. Gregory Christie
+Chris Payne
+Matt Mahurin
+John Dykes
+Scott McKowen
+Mark Ulriksen
+Jeremy Lipking
+Aaron Draplin
+Brian Cronin
+Justin Rothshank
+David Mann
+Michael Schwab
+Kadir Nelson
+Timothy Banks
+Jorge Colombo
+James Jean
+Alfons Mucha
+Gustav Klimt
+Koloman Moser
+Josef Hoffmann
+Egon Schiele
+Otto Wagner
+Franz von Stuck
+Max Klinger
+Arnold Böcklin
+Hans Makart
+Ferdinand Hodler
+Jan Toorop
+Carlos Schwabe
+Odilon Redon
+Pierre Puvis de Chavannes
+Maurice Denis
+Paul Sérusier
+Édouard Vuillard
+Pierre Bonnard
+Félix Vallotton
+Henri Fantin-Latour
+Gaston Bussière
+Georges de Feure
+Lucien Lévy-Dhurmer
+Émile Gallé
+René Lalique
+Alphonse Osbert
+Alexandre Séon
+Jean Delville
+Fernand Khnopff
+James Ensor
+Aubrey Beardsley
+Walter Crane
+Edward Burne-Jones
+Dante Gabriel Rossetti
+John William Waterhouse
+William Morris
+Arthur Rackham
+Edmund Dulac
+Kay Nielsen
+Sidney Sime
+Charles Ricketts
+George Frederic Watts
+Evelyn De Morgan
+Frederic Leighton
+Edward Poynter
+Albert Joseph Moore
+Giulio Aristide Sartorio
+Gaetano Previati
+Giovanni Segantini
+Angelo Jank
+František Kupka
+Mikoláš Aleš
+Vojtěch Hynais
+Jan Preisler
+Max Švabinský
+Alphonse Osbert
+Léon Bakst
+Alexandre Benois
+Ivan Bilibin
+Mikhail Vrubel
+Viktor Vasnetsov
+Konstantin Somov
+Zinaida Serebriakova
+Valentin Serov
+Mikhail Nesterov
+Nicholas Roerich
+Arnold Böcklin
+Hugo Simberg
+Akseli Gallen-Kallela
+Elin Danielson-Gambogi
+Magnus Enckell
+Eero Järnefelt
+Carlos Sáenz de Tejada
+José Villegas Cordero
+Santiago Rusiñol
+Ramon Casas
+Ismael Smith
+Alexandre de Riquer
+Eliseu Meifrèn
+Adrià Gual
+Hermen Anglada Camarasa
+Julio Romero de Torres
+Ignacio Zuloaga
+Darío de Regoyos
+Jean Dunand
+Paul Berthon
+Eugène Grasset
+Georges Auriol
+Henri Privat-Livemont
+Théophile Steinlen
+Jules Chéret
+Leonetto Cappiello
+Alfred Roller
+Franz von Bayros
+Raphael Kirchner
+Julius Klinger
+Leopold Stolba
+Carl Otto Czeschka
+Ludwig von Hofmann
+Melchior Lechter
+Max Pirner
+Sascha Schneider
+Fidus
+Otto Eckmann
+Henry van de Velde
+Victor Horta
+Paul Ranson
+Charles Filiger
+Armand Point
+Alfred Agache
+Georges Lacombe
+Émile Bernard
+Maurice Chabas
+Lucien Pissarro
+Henri Martin
+Émile René Ménard
+Edgar Maxence
+Jean Veber
+Jean-Paul Laurens
+Eugène Carrière
+Alfred Kubin
+Kees van Dongen
+Jan Sluijters
+Carel de Nerée tot Babberich
+Richard Riemerschmid
+Bruno Paul
+Peter Behrens
+Josef Maria Auchentaller
+Fritz Erler
+Otto Ubbelohde
+Albert Weisgerber
+Hermann Obrist
+Paul Ackermann
+Anton Kling
+Friedrich König
+Hans Christiansen
+Walter Leistikow
+Oskar Zwintscher
+Karl Wilhelm Diefenbach
+František Bílek
+Stanisław Wyspiański
+Józef Mehoffer
+Jacek Malczewski
+Władysław Podkowiński
+Feliks Jasiński
+Bronisław Abramowicz
+Elisabeth Sonrel
+Luc-Olivier Merson
+André des Gachons
+Armand Rassenfosse
+Henri Meunier
+Paul-Albert Besnard
+Georges Rochegrosse
+Carlos Baca-Flor
+Giovanni Boldini
+Antonio Mancini
+Adolfo Wildt
+Ettore Tito
+Plinio Nomellini
+Vittorio Zecchin
+Pablo Picasso
+Vincent van Gogh
+Leonardo da Vinci
+Michel-Ange
+Raphaël
+Claude Monet
+Edgar Degas
+Pierre-Auguste Renoir
+Paul Cézanne
+Paul Gauguin
+Gustav Klimt
+Egon Schiele
+Alfons Mucha
+Salvador Dalí
+René Magritte
+Joan Miró
+Wassily Kandinsky
+Kazimir Malevitch
+Piet Mondrian
+Jackson Pollock
+Mark Rothko
+Andy Warhol
+Roy Lichtenstein
+Jean-Michel Basquiat
+Keith Haring
+Francis Bacon
+Lucian Freud
+David Hockney
+Edward Hopper
+Grant Wood
+Norman Rockwell
+N.C. Wyeth
+Frank Frazetta
+H.R. Giger
+Zdzisław Beksiński
+Gustave Doré
+William Blake
+Aubrey Beardsley
+Odilon Redon
+Gustave Moreau
+Arnold Böcklin
+John William Waterhouse
+Edward Burne-Jones
+Dante Gabriel Rossetti
+William Morris
+Arthur Rackham
+Edmund Dulac
+Kay Nielsen
+Sidney Sime
+Albrecht Dürer
+Hieronymus Bosch
+Pieter Bruegel l’Ancien
+Caravage
+Rembrandt
+Johannes Vermeer
+Francisco de Goya
+Diego Velázquez
+El Greco
+Jean-Auguste-Dominique Ingres
+Eugène Delacroix
+Théodore Géricault
+Caspar David Friedrich
+J.M.W. Turner
+Henri Matisse
+Georges Braque
+Fernand Léger
+Amedeo Modigliani
+Marc Chagall
+Paul Klee
+Giorgio de Chirico
+Tamara de Lempicka
+Frida Kahlo
+Georgia O’Keeffe
+Edward Gorey
+Ralph Steadman
+Saul Steinberg
+Tim Burton
+Hayao Miyazaki
+Isao Takahata
+Makoto Shinkai
+Yoshitaka Amano
+Katsuhiro Otomo
+Akira Toriyama
+Osamu Tezuka
+Takehiko Inoue
+Kentaro Miura
+Junji Ito
+Naoki Urasawa
+Taiyo Matsumoto
+Tsutomu Nihei
+Yusuke Murata
+Hergé
+André Franquin
+Jean Giraud
+Moebius
+Enki Bilal
+Jacques Tardi
+Hugo Pratt
+Philippe Druillet
+Albert Uderzo
+Milo Manara
+Sergio Toppi
+Lorenzo Mattotti
+Alberto Breccia
+Will Eisner
+Jack Kirby
+Steve Ditko
+Alex Toth
+Frank Miller
+Mike Mignola
+Dave McKean
+Bill Sienkiewicz
+Brian Bolland
+Dave Gibbons
+Jim Lee
+Todd McFarlane
+Alex Ross
+James Jean
+Ashley Wood
+Simon Bisley
+Paul Pope
+Chris Ware
+Daniel Clowes
+Charles Burns
+Robert Crumb
+Art Spiegelman
+Banksy
+Shepard Fairey
+Takashi Murakami
+Yoshitomo Nara
+Hokusai
+Utagawa Hiroshige
+Qi Baishi
+Zao Wou-Ki
+Chu Teh-Chun
+Lee Ufan
+Anselm Kiefer
+Gerhard Richter
+Neo Rauch
+Peter Doig
+Adrian Ghenie
+Luc Tuymans
+Marlene Dumas
+Jenny Saville
+Kara Walker
+William Kentridge
+Cindy Sherman
+Greg Rutkowski
+Beeple
